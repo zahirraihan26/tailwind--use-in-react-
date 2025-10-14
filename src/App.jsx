@@ -16,7 +16,7 @@ function App() {
       
      <header>
       <Navbar></Navbar>
-      <Daisyuinav></Daisyuinav>
+      {/* <Daisyuinav></Daisyuinav> */}
      </header>
       
      
