@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Ariana Rahman",
+    "math": 85,
+    "english": 78,
+    "science": 90,
+    "computer": 88,
+    "total_score": 341,
+    "average_score": 85.25
+  },
+  {
+    "id": 2,
+    "name": "Hasan Ali",
+    "math": 72,
+    "english": 81,
+    "science": 76,
+    "computer": 80,
+    "total_score": 309,
+    "average_score": 77.25
+  },
+  {
+    "id": 3,
+    "name": "Nadia Karim",
+    "math": 95,
+    "english": 89,
+    "science": 92,
+    "computer": 94,
+    "total_score": 370,
+    "average_score": 92.5
+  },
+  {
+    "id": 4,
+    "name": "Rafiul Islam",
+    "math": 68,
+    "english": 74,
+    "science": 70,
+    "computer": 72,
+    "total_score": 284,
+    "average_score": 71
+  },
+  {
+    "id": 5,
+    "name": "Mim Akter",
+    "math": 88,
+    "english": 82,
+    "science": 85,
+    "computer": 90,
+    "total_score": 345,
+    "average_score": 86.25
+  },
+  {
+    "id": 6,
+    "name": "Samiul Hossain",
+    "math": 91,
+    "english": 87,
+    "science": 93,
+    "computer": 95,
+    "total_score": 366,
+    "average_score": 91.5
+  },
+  {
+    "id": 7,
+    "name": "Tania Chowdhury",
+    "math": 77,
+    "english": 79,
+    "science": 80,
+    "computer": 83,
+    "total_score": 319,
+    "average_score": 79.75
+  },
+  {
+    "id": 8,
+    "name": "Rakib Hasan",
+    "math": 64,
+    "english": 70,
+    "science": 68,
+    "computer": 72,
+    "total_score": 274,
+    "average_score": 68.5
+  },
+  {
+    "id": 9,
+    "name": "Joya Sultana",
+    "math": 90,
+    "english": 85,
+    "science": 88,
+    "computer": 92,
+    "total_score": 355,
+    "average_score": 88.75
+  },
+  {
+    "id": 10,
+    "name": "Adnan Chowdhury",
+    "math": 82,
+    "english": 80,
+    "science": 79,
+    "computer": 85,
+    "total_score": 326,
+    "average_score": 81.5
+  }
+]

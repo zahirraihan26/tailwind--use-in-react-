@@ -6,7 +6,7 @@ const Prisingoption = ({prisingPromise}) => {
 
     const prisingData = use(prisingPromise)
 
-    console.log(prisingData)
+    // console.log(prisingData)
 
 
 
